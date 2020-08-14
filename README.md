@@ -1,9 +1,9 @@
 Javascript Algorithms
 
 Performance testing:
-https://rithmschool.github.io/function-timer-demo/
-https://jsbench.me/
-https://jsben.ch/
+-- https://rithmschool.github.io/function-timer-demo/
+-- https://jsbench.me/
+-- https://jsben.ch/
 
 Big O notation:
 
@@ -144,4 +144,23 @@ how to imporve?
     2. master common problem sovling patterns
 
 Problem sovling strategies
-    
+    - understand the problem
+        1. can you restate the problem in your own words
+        2. what are the inputs that go into the problem
+        3. what are the outputs that should come from the soultion 
+        4. can outputs be determined from the inputs.
+        5. how to label important pieces of data in the problem
+
+    - explore concrete examples
+        1. start with simple examples
+        2. progress to more complex examples
+        3. explore examples with empty inputs
+        4. explore examples wiht invalid inputs
+
+    - break it down
+        1. explicity write out the steps you need to take
+        -- forces you to think about the code before you write it
+
+
+    - solve/simplify
+    - look back and refactor
