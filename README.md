@@ -89,9 +89,9 @@ What is a logarithm?
 
 - who cares?
 
--- searching alogoithms have them
--- sorting algorithms
--- recursion sometimes involves log space complexity
+    - searching alogoithms have them
+    - sorting algorithms
+    - recursion sometimes involves log space complexity
 
 *********************************************************************************************
 
