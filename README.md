@@ -97,11 +97,11 @@ What is a logarithm?
 
 Recap
 
--- To analyze the performance of algorithms
--- give us a high level understanding of time or space complexity of algroithms
--- does not care about precision only about general trends (linear, quadratic, or constant)
--- time or space complexity depends on the algorithm and not the hardware that its run on
--- Big O notation is everywhere
+    - To analyze the performance of algorithms
+    - give us a high level understanding of time or space complexity of algroithms
+    - does not care about precision only about general trends (linear, quadratic, or constant)
+    - time or space complexity depends on the algorithm and not the hardware that its run on
+    - Big O notation is everywhere
 
 *********************************************************************************************
 
@@ -123,12 +123,12 @@ hasOwnProperty - O(1)
 
 Big O of arrays :
 
-- insertion  - depends
+insertion  - depends
 
 - push()     - O(1)
 - unshift()  - O(n)
 
-- removal    - depends
+removal    - depends
 
 - shift()    - O(n)
 - pop()      - O(1)
