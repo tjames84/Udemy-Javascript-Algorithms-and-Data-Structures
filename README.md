@@ -64,6 +64,7 @@ Simplify Big O expressions.
     
 
 What is time complexity and space complexity?
+
     - Time Complexity
     -- how can we analyze the rntime of an algorithm as the size of the inputs increases?
 
@@ -72,6 +73,7 @@ What is time complexity and space complexity?
     -- auxiliary space complexity refers to the space required by the algorithm not the space take up by the inputs.
 
 Evalute time complexity and space complexity of different algorithms using Big O.
+
     - most primitives are constant space (bool, nums, undefined, null)
     - Strings are o(n) where n is the length of the string
     - Reference types are generally O(n)
@@ -79,19 +81,22 @@ Evalute time complexity and space complexity of different algorithms using Big O
     -- where n is the number of keys in an object
 
 What is a logarithm?
+
 - the log of a number is roughty the number of times you can divide that number by 2 before you get the value that is less thanor equal to 1
 - log2(value) = exponent || 2^exponent = value
 - log === log2
 - log time complexity is great! O(log n)
 
 - who cares?
+
 -- searching alogoithms have them
 -- sorting algorithms
 -- recursion sometimes involves log space complexity
 
 *********************************************************************************************
 
-- Recap
+Recap
+
 -- To analyze the performance of algorithms
 -- give us a high level understanding of time or space complexity of algroithms
 -- does not care about precision only about general trends (linear, quadratic, or constant)
