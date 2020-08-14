@@ -1,6 +1,7 @@
 Javascript Algorithms
 
 Performance testing:
+
 -- https://rithmschool.github.io/function-timer-demo/
 -- https://jsbench.me/
 -- https://jsben.ch/
