@@ -3,7 +3,9 @@ Javascript Algorithms
 Performance testing:
 
 -- https://rithmschool.github.io/function-timer-demo/
+
 -- https://jsbench.me/
+
 -- https://jsben.ch/
 
 Big O notation:
@@ -19,15 +21,16 @@ we are talking about worst case senarior. talking about the upper bound for run 
 
 *********************************************************************************************
 
-O(1)     - will always have three operations
-O(n)     - number of operations is bounded by a multiple of n
-O(n^2)   - when there is a O(n) inside a O(n) operation
-O(log n) - similar to O(n)
+O(1)     - will always have three operations.
+O(n)     - number of operations is bounded by a multiple of n.
+O(n^2)   - when there is a O(n) inside a O(n) operation.
+O(log n) - similar to O(n).
 
-as the input grows how will time elapsed grow
+as the input grows how will time elapsed grow.
 
 *********************************************************************************************
 What is it? 
+
     - a way of generalizing or a system to compare performance of code.
     - who cares?
     --- when we are talking about code challegnes or large data sets
@@ -43,7 +46,8 @@ What is it?
     - gives us the ablity to talk about how runtime of an algorithm grows as the inputs grow
 
 Simplify Big O expressions.
-    - constants dont matter
+
+    - Constants dont matter
     -- O(2n)    === O(n)
     -- O(500)   === O(1)
     -- O(13n^2) === O(n^2)
