@@ -75,7 +75,7 @@ What is time complexity and space complexity?
 Evalute time complexity and space complexity of different algorithms using Big O.
 
     - most primitives are constant space (bool, nums, undefined, null)
-    - Strings are o(n) where n is the length of the string
+    - Strings are O(n) where n is the length of the string
     - Reference types are generally O(n)
     -- where n is the length of the array
     -- where n is the number of keys in an object
@@ -124,10 +124,12 @@ hasOwnProperty - O(1)
 Big O of arrays :
 
 - insertion  - depends
+
 -- push()     - O(1)
 -- unshift()  - O(n)
 
 - removal    - depends
+
 -- shift()    - O(n)
 -- pop()      - O(1)
 
@@ -135,6 +137,7 @@ Big O of arrays :
 - access     - O(1)
 
 Other array methods :
+
 -- concat()  - O(n)
 -- slice()   - O(n)
 -- splice()  - O(n)
@@ -147,13 +150,16 @@ Other array methods :
 *********************************************************************************************
 
 What is an Algorithm? 
+
 - a process or set of steps to accompolish a certain task
 
 how to imporve?
+
     1. devise a plan for solving problems
     2. master common problem sovling patterns
 
 Problem sovling strategies
+
     - understand the problem
         1. can you restate the problem in your own words
         2. what are the inputs that go into the problem
@@ -162,15 +168,18 @@ Problem sovling strategies
         5. how to label important pieces of data in the problem
 
     - explore concrete examples
+
         1. start with simple examples
         2. progress to more complex examples
         3. explore examples with empty inputs
         4. explore examples wiht invalid inputs
 
     - break it down
+
         1. explicity write out the steps you need to take
         -- forces you to think about the code before you write it
 
 
     - solve/simplify
+
     - look back and refactor
