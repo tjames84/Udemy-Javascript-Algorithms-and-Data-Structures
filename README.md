@@ -125,27 +125,27 @@ Big O of arrays :
 
 - insertion  - depends
 
--- push()     - O(1)
--- unshift()  - O(n)
+- push()     - O(1)
+- unshift()  - O(n)
 
 - removal    - depends
 
--- shift()    - O(n)
--- pop()      - O(1)
+- shift()    - O(n)
+- pop()      - O(1)
 
 - searching  - O(n)
 - access     - O(1)
 
 Other array methods :
 
--- concat()  - O(n)
--- slice()   - O(n)
--- splice()  - O(n)
--- sort()    - O(n * log n)
--- forEach() - O(n)
---- map() ______|
---- filter()____|
---- reduce()____|
+- concat()  - O(n)
+- slice()   - O(n)
+- splice()  - O(n)
+- sort()    - O(n * log n)
+- forEach() - O(n)
+- map() ______|
+- filter()____|
+- reduce()____|
 
 *********************************************************************************************
 
