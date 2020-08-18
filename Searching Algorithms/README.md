@@ -24,6 +24,17 @@ Objectives :
 
     3. Implement binary search on sorted arrays.
 
+        -- is much faster form of searching
+        -- Raher than eliminating one element at a time, you can eliminate half of the remaining elements at a time.
+        -- Binary search onely works on sorted arrays! 
+        -- Divide and Conquer!
+            -- cut into left and right
+            -- pick a middle. 
+            
+        3.1. Binary Search Big O
+            - O(log n) worst and average
+            - O(1) best case
+
     4. Implement a native string searching algorithm.
 
     4. Implement the KMP string searching algorithm.
