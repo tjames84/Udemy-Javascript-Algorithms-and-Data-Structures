@@ -35,6 +35,10 @@ Objectives :
             - O(log n) worst and average
             - O(1) best case
 
-    4. Implement a native string searching algorithm.
+    4. Implement a Naive string searching algorithm.
+
+        -- 
+
+        4.1. Naive String Search Big O
 
     4. Implement the KMP string searching algorithm.
