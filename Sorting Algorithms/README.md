@@ -42,4 +42,13 @@ Bubble Sort -
 
 -- a sorting algorithm where the largest values 'bubble' up to the top.
 
+-- Big O notation
+    - O(n^2)
 
+Selection Sort - 
+
+-- similary to bubble sort but puts smaller values into sorted positions. 
+-- looks for the min value and compairs to next value to sort the array
+
+-- Bit O notation
+    - O(n^2)
