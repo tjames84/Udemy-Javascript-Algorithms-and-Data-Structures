@@ -22,26 +22,30 @@ we are talking about worst case senarior. talking about the upper bound for run 
 *********************************************************************************************
 
 O(1)     - will always have three operations.
+
 O(n)     - number of operations is bounded by a multiple of n.
+
 O(n^2)   - when there is a O(n) inside a O(n) operation.
+
 O(log n) - similar to O(n).
 
 as the input grows how will time elapsed grow.
 
 *********************************************************************************************
-What is it? 
+What is it?
 
     - a way of generalizing or a system to compare performance of code.
+
     - who cares?
-    --- when we are talking about code challegnes or large data sets
-    --- performance will matter
-    --- its good to have a way to talk about performance
-    --- ways to discuss trade offs between different approaches
-    --- comes up in interviews
+        - when we are talking about code challegnes or large data sets
+        - performance will matter
+        - its good to have a way to talk about performance
+        - ways to discuss trade offs between different approaches
+        - comes up in interviews
 
     - Count Operations
-    -- example: *, +, -, /
-    -- remember that for loops with += will be n additions and n assignments
+     - example: *, +, -, /
+     - remember that for loops with += will be n additions and n assignments
 
     - gives us the ablity to talk about how runtime of an algorithm grows as the inputs grow
 
@@ -143,9 +147,9 @@ Other array methods :
 - splice()  - O(n)
 - sort()    - O(n * log n)
 - forEach() - O(n)
-- map() ______|
-- filter()____|
-- reduce()____|
+- map()     - O(n)
+- filter()  - O(n)
+- reduce()  - O(n)
 
 *********************************************************************************************
 
